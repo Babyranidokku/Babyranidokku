@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Maximizing AI potential to revolutionize productivity and stream line operations**
 
-- 👨‍💻 All of my projects are available at [https://babyranidokku.github.io/Portfoliome/]
+- 👨‍💻 All of my projects are available at [https://babyranidokku-portfolio-np859jwcb-babyranis-projects.vercel.app/]
 
 - 💬 Ask me about **Ask me about anything tech-related, I'm happy to share my knowledge!**
 
